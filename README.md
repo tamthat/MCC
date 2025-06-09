@@ -4,12 +4,12 @@ Kho lưu trữ này chứa các bản đồ minh họa cấu trúc của các m�
 
 ## Cấu Trúc File
 ### Mô Hình Học Máy (Machine Learning)
-**ML_LR Landscape.png:** Bản đồ phân vùng lũ quét huyện Mù Cang Chải của mô hình Hồi Quy Logistic (Logistic Regression).
-**ML_RF Landscape.png:** Bản đồ phân vùng lũ quét huyện Mù Cang Chải của mô hình Rừng Ngẫu Nhiên (Random Forest).
-**ML_SVM Landscape.png:** Bản đồ phân vùng lũ quét huyện Mù Cang Chải của mô hình Máy Vector Hỗ Trợ (Support Vector Machine - SVM).
-**ML_LGBM Landscape.png:** Bản đồ phân vùng lũ quét huyện Mù Cang Chải của mô hình LightGBM.
-**ML_ENSEMBLE Landscape.png: Bản đồ phân vùng lũ quét huyện Mù Cang Chải của phương pháp kết hợp (Ensemble) giữa Rừng Ngẫu Nhiên (Random Forest) và LightGBM.
+**ML_LR Landscape.png:** Bản đồ phân vùng lũ quét huyện Mù Cang Chải của mô hình Hồi Quy Logistic (Logistic Regression).  
+**ML_RF Landscape.png:** Bản đồ phân vùng lũ quét huyện Mù Cang Chải của mô hình Rừng Ngẫu Nhiên (Random Forest).  
+**ML_SVM Landscape.png:** Bản đồ phân vùng lũ quét huyện Mù Cang Chải của mô hình Máy Vector Hỗ Trợ (Support Vector Machine - SVM).  
+**ML_LGBM Landscape.png:** Bản đồ phân vùng lũ quét huyện Mù Cang Chải của mô hình LightGBM.  
+**ML_ENSEMBLE Landscape.png: Bản đồ phân vùng lũ quét huyện Mù Cang Chải của phương pháp kết hợp (Ensemble) giữa Rừng Ngẫu Nhiên (Random Forest) và LightGBM.  
 
 ### Mô Hình Học Sâu (Deep Learning)
-**DL_CNN Landscape.png:** Bản đồ phân vùng lũ quét huyện Mù Cang Chải của Mạng Nơ-ron Tích Chập (Convolutional Neural Network - CNN).
-**DL_DNN Landscape.png:** Bản đồ phân vùng lũ quét huyện Mù Cang Chải của Mạng Nơ-ron Sâu (Deep Neural Network - DNN).
+**DL_CNN Landscape.png:** Bản đồ phân vùng lũ quét huyện Mù Cang Chải của Mạng Nơ-ron Tích Chập (Convolutional Neural Network - CNN).  
+**DL_DNN Landscape.png:** Bản đồ phân vùng lũ quét huyện Mù Cang Chải của Mạng Nơ-ron Sâu (Deep Neural Network - DNN).  
