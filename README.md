@@ -33,25 +33,3 @@ Navigate to the Directory  cd MCC
 
 
 View the FilesOpen the PNG files in any image viewer to explore the model landscapes.
-
-Contributing
-How to Contribute
-
-Fork the RepositoryFork this repository to your GitHub account.
-Create a Branch  git checkout -b feature/your-feature-name
-
-
-Make ChangesAdd or modify files, then commit:  git commit -m "Add your message"
-
-
-Push Changes  git push origin feature/your-feature-name
-
-
-Submit a Pull RequestOpen a pull request on GitHub for review.
-
-License
-Licensing Information
-This project is licensed under the MIT License. See the LICENSE file for details.
-Contact
-Reach Out
-For questions or feedback, contact [Your Name] at [your.email@example.com] or open an issue on this repository.
