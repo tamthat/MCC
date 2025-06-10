@@ -1,6 +1,6 @@
 # Tổng Quan Dự Án MCC
 ## Giới Thiệu
-Kho lưu trữ này chứa các bản đồ phân vùng lũ quét huyện Mù Cang Chải cho trận lũ ngày 05/08/2024 của các mô hình học máy (Machine Learning - ML) và học sâu (Deep Learning - DL), được lưu dưới dạng file PNG. Các bản đồ này được trình bày trên khổ A0 nằm ngang, với độ phân giải cao, phục vụ cho mục đích giáo dục và nghiên cứu.
+Kho lưu trữ này chứa các bản đồ phân vùng lũ quét huyện Mù Cang Chải cho trận lũ ngày 05/08/2023 của các mô hình học máy (Machine Learning - ML) và học sâu (Deep Learning - DL), được lưu dưới dạng file PNG. Các bản đồ này được trình bày trên khổ A0 nằm ngang, với độ phân giải cao, phục vụ cho mục đích giáo dục và nghiên cứu.
 
 ## Cấu Trúc File
 ### Mô Hình Học Máy (Machine Learning)
